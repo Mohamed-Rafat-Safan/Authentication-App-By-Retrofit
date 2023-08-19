@@ -15,17 +15,26 @@ and used signIn by Google (gmail).
   - Shared Preferences </br>
 
 
-<p align="center">
-https://user-images.githubusercontent.com/76782050/185623943-96f61e49-eeb2-4295-bf4b-e72978276ee3.mp4
-</p>
+Vedio for app:
+
+https://github.com/Mohamed-Rafat-Safan/Authentication-App-By-Retrofit/assets/76782050/5ff8cb2d-996a-4c87-b3e9-39ae268cb874
+
 
 
 Image App:
 
  <p align="center">
-<img src="https://user-images.githubusercontent.com/76782050/185628320-13c2e888-fe1e-4de4-9c9f-74662edf13d8.jpg" width="250" height="500" />
+<img src="https://github.com/Mohamed-Rafat-Safan/Authentication-App-By-Retrofit/assets/76782050/2d60edc2-9144-410c-bfbb-1b9a6a51f4bd" width="250" height="500" />
  <span> &nbsp;  &nbsp; </span>
-<img src="https://user-images.githubusercontent.com/76782050/185628329-d6bc0072-8ec8-4858-b950-8badf530bf54.jpg" width="250" height="500" />
+<img src="https://github.com/Mohamed-Rafat-Safan/Authentication-App-By-Retrofit/assets/76782050/003e04cd-fc84-471f-9f16-cabe5323ce45" width="250" height="500" />
  <span> &nbsp;  &nbsp; </span>
-<img src="https://user-images.githubusercontent.com/76782050/185628343-310f52b4-f370-402f-98ad-60b3f1f1ea0b.jpg" width="250" height="500" />
+<img src="https://github.com/Mohamed-Rafat-Safan/Authentication-App-By-Retrofit/assets/76782050/03c1ca52-4610-4fd5-8ff8-4bf34364f435" width="250" height="500" />
+</p>
+
+<p align="center">
+<img src="https://github.com/Mohamed-Rafat-Safan/Authentication-App-By-Retrofit/assets/76782050/63748f46-a113-46b3-972f-8b828b66af1b" width="250" height="500" />
+ <span> &nbsp;  &nbsp; </span>
+<img src="https://github.com/Mohamed-Rafat-Safan/Authentication-App-By-Retrofit/assets/76782050/7ad17bce-2d7f-47fd-82b4-2a33e89d7d15" width="250" height="500" />
+ <span> &nbsp;  &nbsp; </span>
+<img src="https://github.com/Mohamed-Rafat-Safan/Authentication-App-By-Retrofit/assets/76782050/97463fd9-8adf-469d-b1b3-e4f59d1ca62f" width="250" height="500" />
 </p>
